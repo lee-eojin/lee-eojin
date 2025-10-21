@@ -1,7 +1,7 @@
-## Hi, I'm Eojin
+## Eojin Lee
 
-Frontend developer focused on clean code and intuitive user experiences.
-I believe in continuous growth through daily learning and practice, constantly improving my skills to build better products.
+Building products that solve real problems.
+Frontend developer who writes code that matters.
 
 ---
 
