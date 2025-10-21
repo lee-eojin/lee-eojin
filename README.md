@@ -1,6 +1,6 @@
 ## Eojin Lee
 
-Building products that solve real problems.
+Building products that solve real problems.\
 Frontend developer who writes code that matters.
 
 ---
