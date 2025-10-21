@@ -7,11 +7,7 @@ I believe in continuous growth through daily learning and practice, constantly i
 
 ### Tech Stack
 
-**Frontend**
-- JavaScript, React
-
-**Tools**
-- Git, Oracle Cloud
+JavaScript, React, Python, PyTorch, LangChain, RAG, Git, OCI
 
 ---
 
