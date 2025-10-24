@@ -1,5 +1,3 @@
-## Eojin Lee
-
 Materials Science graduate turned Frontend Developer
 
 ### Skills
