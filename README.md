@@ -1,13 +1,12 @@
 ## Eojin Lee
 
-Building products that solve real problems.\
-Frontend developer who writes code that matters.
+Materials Science graduate turned Frontend Developer
 
 ---
 
-### Tech Stack
+### Skills
 
-JavaScript, React, Python, PyTorch, LangChain, RAG, Git, OCI
+JavaScript, TypeScript, React, Python, PyTorch, LangChain, RAG
 
 ---
 
